@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satwik</h1>
+<img align="right" alt="rocket" width="400" src="https://cdn.dribbble.com/users/116207...](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ef9a3260506271.5a4f65ff2e513.gif"/>
 
 I'm Satwik, a third-year Computer Science and Engineering student at Manipal Institute of Technology. My passion lies in web development, and I specialize in crafting dynamic and performant applications using Next.js and React.js.
 
