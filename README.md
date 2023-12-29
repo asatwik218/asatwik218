@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Satwik</h1>
 
-<!--
-**asatwik218/asatwik218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Satwik, a third-year Computer Science and Engineering student at Manipal Institute of Technology. My passion lies in web development, and I specialize in crafting dynamic and performant applications using Next.js and React.js.
 
-Here are some ideas to get you started:
+When I'm not immersed in the world of coding, you'll find me reaching for the stars as a proud member of India's top student rocketry team, ThrustMIT. In this exciting role, I take on the responsibility of creating firmware for our flight computer. It's a thrilling experience to blend my love for technology with the challenges of aerospace engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on honing my skills in Next.js and React.js.
+- 🚀 Member of ThrustMIT, contributing to the development of firmware for our rocket's flight computer.
+- 💬 Let's chat about web development, rocketry, or anything in between!
+- 📫 Reach me at asatwik218@gmail.com .
+
+- ## Projects
+Here are some of my noteworthy projects:
+
+1. [Ecommerce Dashboard and CMS](https://github.com/asatwik218/ecommerce-admin) - A robust backend dashboard and Content Management System (CMS) for Ecommerce, offering a seamless API for frontend integration.
+2. [Ecommerce Website with Stripe Integration](https://github.com/asatwik218/ecommerce-frontend) - A frontend store featuring Stripe integration for secure and convenient payment processing.
+3. [Reddit Clone](https://github.com/asatwik218/Reddit-Clone) - Emulated the functionality of the renowned social media platform. Users can create and join subreddits, make posts, and engage in discussions through comments.
+4. [TMIT Plotter](https://github.com/asatwik218/Plotter-Dash) - A real-time data visualizer for ThrustMIT, providing a dynamic display of crucial information during rocket missions.
+5. [TMIT Ignition System Firmware](https://github.com/asatwik218/TMIT-Ignition_System) - Firmware for Arduino based ignition system for launching a rocket
+6. [MPU6050-STM32 Firware](https://github.com/asatwik218/stm32-mpu6050) - Created firmware for an MPU6050 Inertial Measurement Unit (IMU) sensor with STM32, incorporating polling and External Interrupt integration for enhanced performance.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/agsatwik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agsatwik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/agarwal-satwik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agarwal-satwik" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/asatwik218" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="asatwik218" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/asatwik218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asatwik218" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/asatwik218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asatwik218" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asatwik218&show_icons=true&locale=en" alt="asatwik218" /></p>
