@@ -19,7 +19,8 @@ Here are some of my noteworthy projects:
 3. [Reddit Clone](https://github.com/asatwik218/Reddit-Clone) - Emulated the functionality of the renowned social media platform. Users can create and join subreddits, make posts, and engage in discussions through comments.
 4. [TMIT Plotter](https://github.com/asatwik218/Plotter-Dash) - A real-time data visualizer for ThrustMIT, providing a dynamic display of crucial information during rocket missions.
 5. [TMIT Ignition System Firmware](https://github.com/asatwik218/TMIT-Ignition_System) - Firmware for Arduino based ignition system for launching a rocket
-6. [MPU6050-STM32 Firware](https://github.com/asatwik218/stm32-mpu6050) - Created firmware for an MPU6050 Inertial Measurement Unit (IMU) sensor with STM32, incorporating polling and External Interrupt integration for enhanced performance.
+6. [MPU6050-STM32 Firmware](https://github.com/asatwik218/stm32-mpu6050) - Created firmware for an MPU6050 Inertial Measurement Unit (IMU) sensor with STM32, incorporating polling and External Interrupt integration for enhanced performance.
+7. [LSM6DSO32x Firmware](https://github.com/asatwik218/lsm6dso32x) - library for STM32 LSM6DS032x IMU module using stm32 HAL .
    
 <h2 align="left">Connect with me:</h2>
 <p align="left">
